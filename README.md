@@ -1,5 +1,5 @@
 0x1D C - Binary trees
- C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This projects covers the concepts of binary trees! This was a project done with the contribution of my peer in many other SWE projects  [Jorge Zafra](https://github.com/jorgezafra94/) Kudos!
+ C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This projects covers the concepts of binary trees! This was a project done with the contribution of my peer in many other SWE projects  [Abaynew Guadie](https://github.com/abaynew-guadie/)love!
 Tasks :heavy_check_mark:
 0. Function that creates a binary tree node
 1. Function that inserts a node as the left-child of another node
